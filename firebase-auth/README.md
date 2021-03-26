@@ -1,0 +1,1 @@
+Firebase user authentication process.
